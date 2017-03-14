@@ -1,5 +1,5 @@
 
-##"1:40_Traffic, Redlight aware road software."
+##1:40_Traffic, Redlight aware road software."
 <pre>
 	Did your Traffic Light turn red?
 Actually, we already knew that.
@@ -13,7 +13,7 @@ and on a max 1:40 traffic light ... your light will be green!
 </pre>
 
 
-####lastly, is the max_traffic_light_time in your area 1:40_seconds?<br>you may, as a user configure the max_traffic_light_time accordingly.
+###lastly, is the max_traffic_light_time in your area 1:40_seconds?<br>you may, as a user configure the max_traffic_light_time accordingly.
 
 <pre>thought on cruise_control
 cruise_control should notify rear drivers of two things.
